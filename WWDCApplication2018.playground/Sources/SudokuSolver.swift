@@ -6,6 +6,7 @@
 //  Copyright © 2018 Austin Fuller. All rights reserved.
 //
 //  Swift implementation of this algorithm:     http://norvig.com/sudoku.html
+//  With some help from this git          :     https://github.com/pbing/Sudoku-Solver
 
 /*
  Design Explanation:
