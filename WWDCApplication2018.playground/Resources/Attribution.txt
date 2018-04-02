@@ -1,0 +1,17 @@
+This file contains the proper credit for the included resources.
+
+1.m4a -> Springish by Gillicuddy
+Provided under CC-BY-NC License (meaning Attribution, non-commerical)
+https://gillicuddy.bandcamp.com/album/plays-guitar-deluxe-edition
+
+2.m4a -> Night Owl by Directionless
+Provided under CC-BY License (meaning Attribution alone)
+http://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/
+
+3.m4a -> Veloma by Fabrizio Paterlini
+Provided under CC-NC-SA (meaning Attribution, non-commerical, ShareAlike)
+http://freemusicarchive.org/music/Fabrizio_Paterlini/Viandanze_EP/Veloma
+
+applause.mp3 -> Quiz Correct Sound With Applause by ALEXANDER
+Provided under CC-BY-NC 4.0 (meaning Attribution, non-commerical)
+http://www.orangefreesounds.com/quiz-correct-sound-with-applause/
